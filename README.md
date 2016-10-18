@@ -1,1 +1,2 @@
-# stack.foundatin Public Issue Tracker
+# stack.foundation 
+## Public Issue Tracker
