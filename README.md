@@ -4,6 +4,15 @@
 ## Changelog
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
+### Release 0.0.4-closed-alpha (November 7, 2016)
+- SF-554, SF-646, SF-682: Loading spinners were added to provide better feedback in certain areas.
+- SF-543, SF-647: The maintenance of a logged-in user's session has been improved. In addition, expired sessions are handled better.
+- SF-575, SF-654: A bug prevented private applications from being cloned by their owner - this is now fixed.
+- SF-560, SF-674: Application logs now show colors if present in the log output.
+- SF-566, SF-676, SF-677: The logging during application startup has been improved - logging improvements were made specifically around Maven dependency resolution for Java applications, and npm resolution for Node.js applications.
+- SF-685: Some minor design changes were made to the site.
+- SF-687, SF-688: Minor fixes were made to the validation of forms on the site.
+
 ### Release 0.0.3-closed-alpha (October 28, 2016)
 - SF-637: An updated stack.foundation JDBC driver was released that can be used by Java applications running on stack.foundation that require database connectivity.
 - SF-627, SF-644, SF-614, SF-601: Git history (file structure, and commit messages) was not being displayed correctly when browsing through Git repositories on the stack.foundation site - this was especially the case following changes being pushed after an application was running. Changes were made to address these issues.
