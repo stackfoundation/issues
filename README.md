@@ -5,14 +5,13 @@
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
 ### Release 0.0.5-closed-alpha (November 21, 2016)
-- SF-687: Fixed Readonly fields showing as invalid when form validation was triggered
-- SF-691: Improved database progress messages/progress values
-- SF-697: Fixed alert message positioning in mobile views
-- SF-700, SF-704, SF-716: Secured form requests in the FE against resubmission during asynchronous request wait periods
+- SF-687: Fixed the validation on some fields in our forms
+- SF-691: Improved the feedback shown while the databases tab is loading
+- SF-697: The position of alert messages in mobile views has been improved
+- SF-700, SF-704, SF-716: We guard against form resubmission more robustly
 - SF-712: Recognize and use Docker for Mac in client machine
-- SF-713, SF-714, SF-728: Multi-page documentation implementation and content updates
-- SF-722, SF-726: Updates to frontend to use angular 2.2
-- SF-725: Haldle database loading errors gracefully
+- SF-713, SF-714, SF-728: The documentation has been broken into sections, and several additions and updates were made to the content
+- SF-725: Feedback shown when errors occur while loading in the databases has been improved
 
 ### Release 0.0.4-closed-alpha (November 7, 2016)
 - SF-554, SF-646, SF-682: Loading spinners were added to provide better feedback in certain areas.
