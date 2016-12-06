@@ -4,6 +4,10 @@
 ## Changelog
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
+### Release 0.0.6-closed-alpha (December 6, 2016)
+- SF-733: Fixed several minor issues with the loading bar, and confirmation modals on the site
+- SF-548, SF-468, SF-734, SF-736: Fixed several errors that prevented npm install, and npm postinstall from running properly for Node.js applications
+
 ### Release 0.0.5-closed-alpha (November 21, 2016)
 - SF-687: Fixed the validation on some fields in our forms
 - SF-691: Improved the feedback shown while the databases tab is loading
