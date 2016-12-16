@@ -5,7 +5,6 @@
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
 ### Release 0.0.7-closed-alpha (December 16, 2016)
-- SF-737, SF-756: Secured application containers through TLS
 - SF-750: Fixed issue preventing `npm prune` from running properly
 - SF-758: Allowed open alpha waiting list signups
 - SF-755: Display live state and link button on public applications to all users
