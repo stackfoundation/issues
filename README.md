@@ -4,6 +4,12 @@
 ## Changelog
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
+### Release 0.0.7-closed-alpha (December 16, 2016)
+- SF-737, SF-756: Secured application containers through TLS
+- SF-750: Fixed issue preventing `npm prune` from running properly
+- SF-758: Allowed open alpha waiting list signups
+- SF-755: Display live state and link button on public applications to all users
+
 ### Release 0.0.6-closed-alpha (December 6, 2016)
 - SF-733: Fixed several minor issues with the loading bar, and confirmation modals on the site
 - SF-548, SF-468, SF-734, SF-736: Fixed several errors that prevented npm install, and npm postinstall from running properly for Node.js applications
