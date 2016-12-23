@@ -4,6 +4,9 @@
 ## Changelog
 *Note that the issue numbers (SF-***) reference internal issue numbers.*
 
+### Release 0.0.8-closed-alpha (December 21, 2016)
+- SF-763: Fixed issue with NodeJS app launching creating EBADF errors
+
 ### Release 0.0.7-closed-alpha (December 16, 2016)
 - SF-567: Application launch logging improvements
 - Sf-565: Allow creating empty application
